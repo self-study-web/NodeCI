@@ -1,2 +1,1 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+Application built using Reactjs, Nodejs integrated with Travis CI - Stephen Griders Advanced Node Course
